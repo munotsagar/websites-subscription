@@ -50,3 +50,6 @@ php artisan migrate
 
 php artisan make:job EmailPosts
 
+php artisan queue:work
+
+
