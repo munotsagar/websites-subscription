@@ -53,3 +53,4 @@ php artisan make:job EmailPosts
 php artisan queue:work
 
 
+Postman Collection File : Laravel-Subscription.postman_collection
